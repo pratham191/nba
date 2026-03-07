@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="static/icon.png" alt="DeepShot - NBA Game Prediction Model" width="350">
   <h1>DeepShot: Predict NBA Games with Machine Learning</h1>
 </div>
@@ -114,4 +114,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-> GitHub [@saccofrancesco](https://github.com/saccofrancesco)
+> GitHub [@saccofrancesco](https://github.com/saccofrancesco) -->
+
+
+
+
+hello
